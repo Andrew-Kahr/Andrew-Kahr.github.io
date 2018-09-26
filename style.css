@@ -113,6 +113,7 @@
     font-family: Arial, Helvetica, sans-serif;
     /*width: 40%;*/
     margin: auto;
+    filter: invert(100%)
   }
 
   .navbar a {
